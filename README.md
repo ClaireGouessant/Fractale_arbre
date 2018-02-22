@@ -1,2 +1,2 @@
 # Fractale_arbre
-Ce petit arbre ce dessine récursivement suivant la taille demandée.
+Ce petit arbre se dessine récursivement suivant la taille demandée.
