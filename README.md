@@ -1,7 +1,7 @@
 # Fractale_arbre
 Ce petit arbre se dessine récursivement suivant la taille demandée.
 
-Le code est disponible dans le répertoire src.
+Le code est disponible dans le répertoire ArbreRecursif, fichier tree.java.
 
 Arbre de profondeur 4 / Arbre de profondeur 16 :
 <p align="center">
